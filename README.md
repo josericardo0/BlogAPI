@@ -17,7 +17,7 @@ git clone https://github.com/seu-usuario/blog-api.git
 ```
 ### 2. Abra a pasta do projeto na sua IDE ou no seu editor de texto/código. De preferência, use o Visual Studio Code e abra a pasta do projeto .NET ou execute via terminal o seguinte comando:
 ```bash
-cd Blog-Api
+cd BlogApi
 ```
 ### 3. Instale e adicione os pacotes e ferramentas utilizados no projeto (preferencialmente, um comando por vez):
 ```bash
